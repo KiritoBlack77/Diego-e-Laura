@@ -48,13 +48,13 @@
             <img src="./img/15.jpg" class="d-block" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/16.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/16.jpg" class="d-block img-especial" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/17.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/17.jpg" class="d-block img-especial" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/18.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/18.jpg" class="d-block img-especial" alt="...">
         </div>
         <div class="carousel-item">
             <img src="./img/19.jpg" class="d-block" alt="...">
@@ -66,25 +66,25 @@
             <img src="./img/21.jpg" class="d-block" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/22.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/22.jpg" class="d-block img-especial" alt="...">
         </div>
         <div class="carousel-item">
             <img src="./img/23.jpg" class="d-block" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/24.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/24.jpg" class="d-block img-especial" alt="...">
         </div>
         <div class="carousel-item">
             <img src="./img/25.jpg" class="d-block" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/26.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/26.jpg" class="d-block img-especial" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/27.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/27.jpg" class="d-block img-especial" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/28.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/28.jpg" class="d-block img-especial" alt="...">
         </div>
         <div class="carousel-item">
             <img src="./img/29.jpg" class="d-block" alt="...">
@@ -93,14 +93,15 @@
             <img src="./img/30.jpg" class="d-block" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/31.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/31.jpg" class="d-block img-especial" alt="...">
         </div>
         <div class="carousel-item">
             <img src="./img/32.jpg" class="d-block" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="./img/33.jpg" class="d-block" alt="..." style="width: 890px; height: auto;">
+            <img src="./img/33.jpg" class="d-block img-especial" alt="...">
         </div>
+
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
         <span aria-hidden="true">
