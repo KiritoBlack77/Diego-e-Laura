@@ -12,7 +12,7 @@
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
                 <img src="./img/coração.png" alt="" width="32" height="32" style="vertical-align: middle;">
-                <p style="display: inline-block; margin-left: 8px; vertical-align: middle; color: #FFE5EC">Diego-e-Laura</p>
+                <p style="display: inline-block; margin-left: 8px; vertical-align: middle; color: #FFE5EC;">Diego-e-Laura</p>
             </a>
         </div>
     </nav>
